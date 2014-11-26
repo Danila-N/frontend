@@ -1,4 +1,4 @@
 frontend
 ========
 
-Front-end это круто
+Front-end это очень круто.
