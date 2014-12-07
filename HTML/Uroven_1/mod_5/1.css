@@ -1,5 +1,15 @@
-h1{
-	background: #369;
-	color: #fff;
+h1 {
+				background: #369;
+				color: #fff;
+				font-family: Calibri, 'Myriad Pro', sans-serif;
+				font-size: 4em;
+				font-weight: normal;
 }
+p {
 	
+	line-height: 3em
+}
+
+h2 {
+	font-variant: small-caps;
+}
